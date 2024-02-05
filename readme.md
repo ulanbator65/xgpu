@@ -3,6 +3,21 @@ URL: [Vast.ai](https://cloud.vast.ai/?ref_id=87911)
 
 
 
+v1.1.1 xenblocksMiner Latest
+Early access beta, no additional services yet. After some testing, it can be used as a replacement for xengpuminer(cuda).
+join xenblocks tg group for more detail: https://t.me/+JbYStKSGlM02YTEz
+
+update:
+fixing critical issues from the previous version
+using:
+
+linux one line:
+wget https://github.com/woodysoil/XenblocksMiner/releases/download/v1.1/xenblocksMiner-v1.1.1-Linux-x86_64.tar.gz && \
+tar -vxzf xenblocksMiner-v1.1.1-Linux-x86_64.tar.gz && chmod +x xenblocksMiner && ./xenblocksMiner
+windows: download, unzip and double click
+
+
+
 **Create a Github account and fork this repository**:
 
 - If you don't have your own GitHub account, sign up at [https://github.com](https://github.com/join)
