@@ -12,10 +12,11 @@ fixing critical issues from the previous version
 using:
 
 linux one line:
+
+```
 wget https://github.com/woodysoil/XenblocksMiner/releases/download/v1.1/xenblocksMiner-v1.1.1-Linux-x86_64.tar.gz && \
 tar -vxzf xenblocksMiner-v1.1.1-Linux-x86_64.tar.gz && chmod +x xenblocksMiner && nohup ./xenblocksMiner &
-windows: download, unzip and double click
-
+  ```
 
 
 **Create a Github account and fork this repository**:
